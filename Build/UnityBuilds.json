@@ -1,7 +1,7 @@
 {
 "companyName": "Kalamity Cables",
 "productName": "Custom Coiled Cable WebApp",
-"productVersion": "0.6",
+"productVersion": ".7",
 "dataUrl": "UnityBuilds.data.unityweb",
 "wasmCodeUrl": "UnityBuilds.wasm.code.unityweb",
 "wasmFrameworkUrl": "UnityBuilds.wasm.framework.unityweb",
